@@ -1,0 +1,6 @@
+3	09:19:14.066	cannot open file 'C:\Program Files (x86)\FXCM MetaTrader 4\MQL4\Experts\ADV_Start_End_Time_iSAR_M1_v101.ex4' [2]
+0	09:19:16.191	Expert ADV_Start_End_Time_iSAR_M1_v001 HKG33,Daily: loaded successfully
+0	09:19:17.152	Expert ADV_Start_End_Time_iSAR_M1_v001 HKG33,Daily: removed
+3	09:19:18.315	cannot open file 'C:\Program Files (x86)\FXCM MetaTrader 4\MQL4\Experts\ADV_Start_End_Time_iSAR_M1_STOP_v101.ex4' [2]
+0	09:25:46.351	Compiling 'ADV_Start_End_Time_iSAR_M1_STOP_v101'
+0	09:25:51.292	Compiling 'ADV_Start_End_Time_iSAR_M1_v101'
